@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="playground.reuven.cz">
+    <serverData>
+      <paths name="playground.reuven.cz">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/fullstack-course4" local="$PROJECT_DIR$" web="/fullstack-course4" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
